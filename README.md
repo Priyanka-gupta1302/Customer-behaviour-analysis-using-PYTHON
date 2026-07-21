@@ -6,7 +6,7 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
 
-- ## 📌 Project Overview
+## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
